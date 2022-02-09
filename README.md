@@ -19,6 +19,12 @@
 
 # Svelte Video Player
 
+This is a convenience fork of the original package which I did for a purely esthetic reason (reducing the stroke-width of an icon)
+
+https://github.com/meigo/svelte-video-player
+
+All other credits go to the original author of the package.
+
 ## Basic video player component for svelte, sapper and legacy apps.
 
 Controls are tabbable and respond to key presses (enter/space/arrows) where applicable.
