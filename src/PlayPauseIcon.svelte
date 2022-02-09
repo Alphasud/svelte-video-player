@@ -24,12 +24,12 @@
       visibility={!paused ? 'visible' : 'hidden'}
       d="M40 29v42M60 29v42"
       stroke={$cfg.iconColor}
-      stroke-width="5" />
+      stroke-width="1.5" />
     <path
       visibility={paused ? 'visible' : 'hidden'}
       d="M40 29v42l26-21-26-21z"
       fill={filled ? $cfg.iconColor : 'none'}
       stroke={$cfg.iconColor}
-      stroke-width="5" />
+      stroke-width="1.5" />
   </svg>
 </div>
